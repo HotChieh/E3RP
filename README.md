@@ -1,4 +1,4 @@
-# Adaptive Large Model Parameter Fitting via Resilience Reward in Crowd Counting 
+# Enhancing Low-Rank Adaptation with Recoverability-Based Reinforcement Pruning for Object Counting 
 
 ## Environment
 python=3.8
